@@ -1,4 +1,4 @@
-### EX NO : 01
+### EX NO : 05
 ### DATE  :
 # <p align="center">Single server with infinite capacity (M/M/1):(oo/FIFO)</p>
 ## Aim :
